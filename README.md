@@ -5,7 +5,7 @@
 
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.1 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.2 hours of work.
 
 
 
@@ -26,7 +26,8 @@ g g  fe fe
 
 ## Demo
 
-- **Try it:** [https://taniwankenobi.github.io/breadboard-plays/p/18/](https://taniwankenobi.github.io/breadboard-plays/p/18/)
+- **Simulate it live:** [http://localhost:3000/share/18](http://localhost:3000/share/18), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/18/](https://taniwankenobi.github.io/breadboard-plays/p/18/), a read-only schematic and code snapshot that outlives the simulator
 
 
 ## Schematic
@@ -60,7 +61,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 3.1h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3.2h of work*
 
 
 
